@@ -1,0 +1,19 @@
+.main-wrapper {
+    display:flex;
+    flex-direction:column;
+    text-align: center;
+    color: rgb(19, 243, 131); 
+    background-color:grey; 
+    font-family:Montserrat; 
+    padding: 3rem;
+    font-weight:200;
+    font-size: 20px;
+
+}
+
+.skill-sets{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-around;
+    color: blueviolet;
+}
